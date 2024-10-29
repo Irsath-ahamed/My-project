@@ -1,6 +1,5 @@
 #Description: Script to revoke Confluence user licenses
 #Usage instructions: Create a CSV file containing the Confluence user IDs. The file needs to be stored in the same directory where this script will run. Execute this script. Enter the filename and API key when prompted. 
-#Author: Abhishek Kambli
 #Date: 23-02-2024
 
 import requests
